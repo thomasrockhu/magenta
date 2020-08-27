@@ -66,6 +66,7 @@ EXTRAS_REQUIRE = {
         'tflite',
     ],
     'test': [
+        'coverage >= 4.5.3',
         'pylint',
         'pytest',
     ]
